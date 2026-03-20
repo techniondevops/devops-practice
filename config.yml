@@ -1,2 +1,4 @@
 monitoring: enabled
-server: haproxy
+
+server1: haproxy
+server2: apache
